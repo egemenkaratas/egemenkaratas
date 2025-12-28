@@ -15,7 +15,7 @@ Ben bir hazırlık sınıfı öğrencisiyim ve  Python dünyasına adım attım.
 ### 📁 Projelerim
 Burada geliştirdiğim ve üzerine çalıştığım projeleri görebilirsiniz:
 
-#### 1. Hazırlık Not Hesaplayıcı: https://github.com/egemenkaratas/hazirlik-not-hesaplayici/blob/main/hesaplayıcı.py) 📊
+#### 1. Hazırlık Not Hesaplayıcı: https://github.com/egemenkaratas/hazirlik-not-hesaplayici/blob/main/hesaplayıcı.py 📊
 - **Açıklama:** Hazırlık sınıfı sınav ağırlıklarını hesaplayan ve 2. dönem için hedef belirleyen bir Python uygulaması.
 - **Kazanımlar:** `Dictionary` yapısı, `Error Handling` ve döngü yönetimi.
 
