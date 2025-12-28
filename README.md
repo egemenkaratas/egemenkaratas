@@ -26,7 +26,6 @@ Burada geliştirdiğim ve üzerine çalıştığım projeleri görebilirsiniz:
 ### 🌱 Şu An Ne Yapıyorum?
 - 🐍 Python'ın temellerini (Fonksiyonlar, Listeler, Sözlükler) pekiştiriyorum.
 - 🎓 Üniversite hazırlık sınıfında akademik çalışmalarıma devam ediyorum.
-- 💻 Her gün en az 1 saat kod yazarak GitHub "yeşil kutucuklarımı" dolduruyorum.
 
 ---
 
